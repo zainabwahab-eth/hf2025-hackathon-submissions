@@ -35,11 +35,37 @@ _How have you built this project? Mention the technologies/methods/platforms you
 The technologies I used...
 -->
 
+### Appwrite products
+_Select all the Appwrite products you have used in your project_
+
+<!--
+Update the checkbox to [x] for the products used.
+
+e.g.:
+
+- [x] Auth 
+-->
+
+- [ ] Auth
+- [ ] Databases
+- [ ] Storage
+- [ ] Functions
+- [ ] Messaging
+- [ ] Realtime
+- [ ] Sites
+
 ## Project Repo  
 _Share a public repo link of your project_
 
 <!--
 https://github.com/code-capture/CodeCapture-Xamarin
+-->
+
+## Deployed Site URL
+_Share a `.appwrite.network` URL for your project_
+
+<!--
+https://hacktoberfest.appwrite.network
 -->
 
 ## Demo Video/Photos  
