@@ -1,14 +1,10 @@
 # Hackathon Submission: <PROJECT_NAME>
 
-## GitHub handles of Team Members  
-_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
+## GitHub handle
+_Enter your GitHub handles 
 
 <!--
-- @adityaoberai
-- @tessamero
-.
-.
-.
+@adityaoberai
 -->
 
 ## Project Title
