@@ -31,4 +31,6 @@
 
 - The intellectual property of your code belongs only to you.
 
+- Participants under the age of 18 are welcome to join the hackathon. However, they must have parental or guardian consent to participate and agree to the hackathon rules.
+
 - By participating in the hackathon, you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
