@@ -10,19 +10,6 @@
 
 - Your submission(s) must feature the usage of at least one Appwrite product (i.e., Auth, Databases, Storage, Functions, Realtime, and/or Messaging) and deploy the app on Appwrite Sites (on Cloud). Using more than one Appwrite product is encouraged.
 
-- Projects will be judged based on the following criteria:
-    1. **Impact of idea**
-        - Usefulness of the project in a real-world scenario.
-        - Completeness of the features implemented.
-    2. **Creativity in design**
-        - The overall look, layout, color usage, and positioning in the application.
-    3. **Technical execution**
-        - `(clean code, proper naming conventions, use of linter);`
-        - Use of engineering best practices.
-    4. **Usage of Appwrite**
-        - Is Appwrite central to the functioning of your project?
-        - How many and how well the different Appwrite services have been leveraged
-
 - Hackers are allowed to submit multiple projects.
   
 - There are no specified themes. Hackers are free to build on whatever idea they like.
