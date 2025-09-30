@@ -1,7 +1,7 @@
 # Hackathon Submission: <PROJECT_NAME>
 
 ## GitHub handle
-_Enter your GitHub handles 
+_Enter your GitHub handle_
 
 <!--
 @adityaoberai
