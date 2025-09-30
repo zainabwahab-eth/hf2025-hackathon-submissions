@@ -1,6 +1,6 @@
 # Hackathon Submission: <PROJECT_NAME>
 
-## Name of Team Lead
+## Name
 _Enter your full name_
 
 <!--
@@ -9,20 +9,16 @@ Aditya Oberai
 
 -->
 
-## GitHub handles of Team Members  
-_Enter the GitHub handles of all your team members (including yourself) as separate bullet points_
+## GitHub handle  
+_Enter your GitHub handle_
 
 <!--
 
-- @adityaoberai
-- @tessamero
-.
-.
-.
+@adityaoberai
 
 -->
 
-### Are all of your team members registered on our [Hackathon Signup page](https://apwr.dev/htf24-hackathon)?
+## Are you registered on our [Hackathon Signup page](https://apwr.dev/hf2025-hackathon)?
 _This is a mandatory step for all participants to be considered eligible for judging_
 
 - [ ] Yes
