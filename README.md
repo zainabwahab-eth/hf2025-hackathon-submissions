@@ -23,6 +23,7 @@
     - Sticker sheet
 
 ## How To Submit Your Project?
+*(Watch [video tutorial on how to submit](https://youtu.be/fyQOT93O8Do))*
 
 Follow the steps to submit your project in the hackathon:
 
